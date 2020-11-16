@@ -1,0 +1,26 @@
+{
+  "name": "fastify-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fastify": "node fastify.js",
+    "postman": "node postman.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderGranhof/fastify-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderGranhof/fastify-example/issues"
+  },
+  "homepage": "https://github.com/AlexanderGranhof/fastify-example#readme",
+  "dependencies": {
+    "fastify": "^3.8.0",
+    "fastify-multipart": "^3.3.0",
+    "newman": "^5.2.1"
+  }
+}
